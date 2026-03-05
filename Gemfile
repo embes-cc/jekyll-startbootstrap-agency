@@ -26,7 +26,12 @@ platforms :mingw, :x64_mingw, :mswin, :jruby do
 end
 
 # Performance-booster for watching directories on Windows
-gem "wdm", "~> 0.1.1", :platforms => [:mingw, :x64_mingw, :mswin]
+#gem "wdm", "~> 0.1.1", :platforms => [:mingw, :x64_mingw, :mswin]
+gem "wdm", "~> 0.1", :platforms => [:mingw, :x64_mingw, :mswin]
 
 # Support Ruby 3
 gem "webrick", "~> 1.7"
+
+gem "csv"
+gem "base64"
+gem "bigdecimal"
