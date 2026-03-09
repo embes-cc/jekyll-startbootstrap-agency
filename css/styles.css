@@ -12413,4 +12413,26 @@ ul.social-buttons li a:active, ul.social-buttons li a:focus, ul.social-buttons l
 #pricingsection{
   background-color: #f8f9fa;
 }
+
+#pricing-boxes{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.pricing-box{
+  max-width: 40%;
+  padding-left: 2em;
+  padding-right: 2em;
+  float: left;
+}
+
+#pb-c{
+  display: inline;
+    justify-content: center;
+  align-items: center;
+  float: none;
+  clear: left;
+}
+
 /*# sourceMappingURL=agency.css.map */
