@@ -12420,14 +12420,13 @@ ul.social-buttons li a:active, ul.social-buttons li a:focus, ul.social-buttons l
   align-items: center;
 }
 
-.pricing-box{
-  max-width: 40%;
+/*.pricing-box{
   padding-left: 2em;
   padding-right: 2em;
   float: left;
-}
+} */
 
-#pb-c{
+#pb-lc{
   display: inline;
     justify-content: center;
   align-items: center;
