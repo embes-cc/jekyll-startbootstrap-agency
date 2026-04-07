@@ -12433,4 +12433,19 @@ ul.social-buttons li a:active, ul.social-buttons li a:focus, ul.social-buttons l
   clear: left;
 }
 
+#blog h2, h3 { /*todo: check id h3 works)*/
+  color: #282828;
+  font-family: "Cagliostro";
+}
+
+#blog p {
+  --bs-text-opacity: 1;
+  color: #282828 !important;
+  font-family: "Montserrat", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+}
+
+#blog {
+  background: #FFF5EA;
+}
+
 /*# sourceMappingURL=agency.css.map */

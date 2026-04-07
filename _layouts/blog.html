@@ -6,7 +6,7 @@ layout: default
     <div class="container">
         <div class="text-center">
             <h2 class="section-heading text-uppercase">{{ page.title }}</h2>
-            <h3 class="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.</h3>
+            <h3 class="section-subheading text-muted">A few thoughts and writings to find out how I think.</h3>
         </div>        
         {%- if site.posts.size > 0 -%}
         {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
@@ -32,7 +32,7 @@ layout: default
             </div>
             {%- endfor -%}
         </div>
-        <p class="rss-subscribe text-center mt-5">Subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>
+    <!--    <p class="rss-subscribe text-center mt-5">Subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p> -->
         {%- endif -%}
     </div>
 </section>
