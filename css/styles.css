@@ -12435,7 +12435,7 @@ ul.social-buttons li a:active, ul.social-buttons li a:focus, ul.social-buttons l
 
 #blog h2, h3 { /*todo: check id h3 works)*/
   color: #282828;
-  font-family: "Cagliostro";
+  font-family: "Galdeano", sans-serif;
 }
 
 #blog p {
