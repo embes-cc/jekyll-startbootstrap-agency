@@ -2,7 +2,7 @@
 layout: post
 title:  "Simple Networking for Job Search"
 date:   2026-04-07 09:33:20 -0800
-category: Newsletter
+category: Posts
 tags: [Job Search, Networking]
 ---
 “Networking” - the word sounds scary. What’s worse is that everyone tells you that it’s an *essential* step to finding a job. But what if I told you that you’re already networking every day, and all you need to do for a successful job search is to refine your focus slightly. <!--more-->
