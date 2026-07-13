@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Simple Networking for Job Search"
-date:   2026-04-07 09:33:20 -0800
+date:   2026-07-12 12:00:00 -0800
 category: Posts
 tags: [Job Search, Networking]
 image: /assets/img/blogimg/SimpleNetworking.png
