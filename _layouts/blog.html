@@ -7,15 +7,16 @@ layout: default
         <div class="text-center">
             <br>
             <h2 class="section-heading text-uppercase">{{ page.title }}</h2>
-            <h3 class="section-subheading text-muted">A few thoughts and writings to find out how I think.</h3>
+            <h3 class="section-subheading text-muted">A few thoughts and writings, careers as I see them.</h3>
         </div>        
         {%- if site.posts.size > 0 -%}
         {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
         <div class="row text-center">
             {%- for post in site.posts -%}
-            <div class="col-md-4">
+            <div class="col-md-5">
                 <h4 class="my-3">  
                     <a class="post-link" href="{{ post.url | relative_url }}">
+                        <img class="blogimg" src="{{ post.image }}"> </br>
                         {{ post.title | escape }}
                     </a>
                 </h4>

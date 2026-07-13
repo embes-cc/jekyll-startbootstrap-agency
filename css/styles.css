@@ -12448,4 +12448,15 @@ ul.social-buttons li a:active, ul.social-buttons li a:focus, ul.social-buttons l
   background: #FFF5EA;
 }
 
+.blogimg{
+
+  display: inline-block;
+  max-width:200px;
+  max-height:200px;
+  margin-bottom: 5%;
+  width: auto;
+  height: auto;
+
+}
+
 /*# sourceMappingURL=agency.css.map */
