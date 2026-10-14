@@ -201,8 +201,15 @@ dd {
   margin-left: 0;
 }
 
-blockquote {
+blockquote > p {
   margin: 0 0 1rem;
+  font-style: italic;
+  border-left: solid;
+  border-color: #fed136;
+  padding: 1rem 1.25rem;
+  background-color: #f9f9f9;
+  border-radius: 4px;
+  font-style: italic;
 }
 
 b,
@@ -12457,6 +12464,13 @@ ul.social-buttons li a:active, ul.social-buttons li a:focus, ul.social-buttons l
   width: auto;
   height: auto;
 
+}
+
+.blogimg {
+    display: block;
+    max-width: 100%;
+    height: auto;
+    margin: 0 auto 10px;
 }
 
 /*# sourceMappingURL=agency.css.map */
