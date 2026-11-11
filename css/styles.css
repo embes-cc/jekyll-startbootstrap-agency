@@ -204,11 +204,11 @@ dd {
 blockquote > p {
   margin: 0 0 1rem;
   font-style: italic;
-  border-left: solid;
-  border-color: #fed136;
-  padding: 1rem 1.25rem;
-  background-color: #f9f9f9;
-  border-radius: 4px;
+  /*border-left: solid;
+  border-color: lightgrey;*/
+  padding: 0.5rem 1.25rem;
+  /*background-color: #f9f9f9;*/
+  border-radius: 0px;
   font-style: italic;
 }
 
